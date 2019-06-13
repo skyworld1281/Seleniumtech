@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="40165" started-at="2018-12-28T05:35:27Z" finished-at="2018-12-28T05:36:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="40165" started-at="2018-12-28T05:35:27Z" finished-at="2018-12-28T05:36:07Z">
+      <class name="Com.LetMeCall1.LMC.Registeration_TC_002">
+        <test-method status="PASS" signature="reg_steup()[pri:0, instance:Com.LetMeCall1.LMC.Registeration_TC_002@12108b5]" name="reg_steup" is-config="true" duration-ms="31258" started-at="2018-12-28T11:05:27Z" finished-at="2018-12-28T11:05:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reg_steup -->
+        <test-method status="PASS" signature="cust_reg()[pri:0, instance:Com.LetMeCall1.LMC.Registeration_TC_002@12108b5]" name="cust_reg" duration-ms="8860" started-at="2018-12-28T11:05:58Z" finished-at="2018-12-28T11:06:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cust_reg -->
+      </class> <!-- Com.LetMeCall1.LMC.Registeration_TC_002 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
